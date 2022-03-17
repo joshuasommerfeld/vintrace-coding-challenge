@@ -1,0 +1,6 @@
+[submodule "vintrace-coding-challenge-server"]
+	path = vintrace-coding-challenge-server
+	url = https://github.com/joshuasommerfeld/vintrace-coding-challenge-server.git
+[submodule "vintrace-coding-challenge-front-end"]
+	path = vintrace-coding-challenge-front-end
+	url = https://github.com/joshuasommerfeld/vintrace-coding-challenge-front-end.git
