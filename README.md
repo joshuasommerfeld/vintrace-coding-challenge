@@ -11,7 +11,7 @@ As long as you have the following installed, you're good to go:
 
 You can do that at all together with the following:
 ```bash
-	cd front-end
+	cd vintrace-coding-challenge-front-end
 	yarn startAll
 ```
 
@@ -19,12 +19,12 @@ OR
 
 You can start the services individually like so:
 ```bash
-	cd server
+	cd vintrace-coding-challenge-server
 	./gradlew bootRun
 ```
 Then opening another CLI session and running
 ```bash
-	cd front-end
+	cd vintrace-coding-challenge-front-end
 	yarn start
 ```
 
